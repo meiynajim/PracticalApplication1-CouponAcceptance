@@ -73,9 +73,7 @@ e.g., When age is below21, the acceptance rate is highest 63%, the rate increasi
 •	Coupon Type Comparison: Carry out & Take away has the highest acceptance rate = 73% vs Restaurant(<20) the 2nd highest =71% vs. Bar the lowest = 41%
 
 
-•	Acceptance by Temperature
-
-![image.png](attachment:f76e0772-5c6e-42ed-a1b4-0e6ed6f9b2dc.png)
+•	Acceptance by Temperature: temperature 80 has the highest acceptance rate = 60% vs temperature 30 = 53%
 
 
 ## Section 2 Investigating the Bar Coupons
